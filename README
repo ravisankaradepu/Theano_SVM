@@ -1,2 +1,4 @@
 This project implements a toy binary SVM in theano.
 The code classifies two classes from MNIST
+
+To process MNIST, we use the code provided in deeplearning.net
