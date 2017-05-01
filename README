@@ -1,0 +1,2 @@
+This project implements a toy binary SVM in theano.
+The code classifies two classes from MNIST
